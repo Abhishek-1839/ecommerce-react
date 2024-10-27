@@ -1,0 +1,53 @@
+.order-tracking-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .order-summary {
+    margin-top: 20px;
+  }
+  
+  .action-buttons {
+    margin-top: 20px;
+  }
+  
+  .cancel-button {
+    background-color: #dc3545;
+  }
+  
+  .return-button {
+    background-color: #ffc107;
+  }
+  
+  .exchange-button {
+    background-color: #28a745;
+  }
+
+  .del{
+    margin-top: 10px;
+  }
+.del-boy{
+    height: 500px;
+    position: relative;
+    /* z-index: 12; */
+
+}  

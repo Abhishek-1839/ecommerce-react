@@ -1,0 +1,117 @@
+.cartContainer {
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+}
+
+.cartContent {
+    flex: 2;
+}
+
+.cartWrapper {
+    display: block;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.cartCard {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    /* height: 300px; */
+    width: calc(33.333% - 20px);
+    box-sizing: border-box;
+    transition: transform 0.3s;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid black;
+    margin-bottom: 5px;
+}
+
+.cartCard:hover {
+    transform: translateY(-5px);
+}
+
+.cartCard img {
+    /* width: 100%; */
+    height: 100px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.cartCard h5 {
+    margin: 10px 0;
+}
+
+.totalPrice {
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: right;
+    margin-top: 20px;
+    background-color: #4e7daf;
+    padding: 20px;
+    color: white;
+}
+
+.cartSideBar {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.couponSection, .offerSection, .deliveryDetails {
+    background: #ede8e8;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    padding-left: 20px;
+}
+
+.couponSection input, .deliveryDetails input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.couponSection .btn, .deliveryDetails .btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.couponSection .btn:hover, .deliveryDetails .btn:hover {
+    background-color: #0056b3;
+}
+
+.placeOrderBtn {
+    width: 100%;
+    padding: 15px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.placeOrderBtn:hover {
+    background-color: #218838;
+}
+
+@keyframes placeOrderAnimation {
+    0% { opacity: 0; transform: scale(0.9); }
+    100% { opacity: 1; transform: scale(1); }
+}
+
+.cartContent, .cartSideBar {
+    animation: placeOrderAnimation 0.5s ease-in-out;
+}

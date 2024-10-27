@@ -1,0 +1,50 @@
+.banner-bg {
+  margin-top: 60px;
+}
+.banner-bg img {
+  z-index: -11;
+}
+.banner-bg .btns-div {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.banner-bg .btn1 {
+  padding: 34px 80px;
+  position: absolute;
+  /* top: 40%;
+    left: 50%; */
+  background-color: #a0eb3d;
+  color: #000;
+  border: none;
+  font-family: poppins;
+  font-weight: bold;
+}
+
+.banner-bg .btn2 {
+  padding: 34px 80px;
+  position: absolute;
+  /* top: 40%;
+    left: 50%; */
+  background-color: #a0eb3d;
+  color: #000;
+  border: none;
+  font-family: poppins;
+  font-weight: bold;
+  margin-top: 90px;
+}
+.banner-bg .btn3 {
+  padding: 34px 80px;
+  position: absolute;
+  /* top: 40%;
+    left: 50%; */
+  background-color: #a0eb3d;
+  color: #000;
+  border: none;
+  font-family: poppins;
+  font-weight: bold;
+  margin-top: 180px;
+}
+.btn-div {
+  position: absolute;
+}

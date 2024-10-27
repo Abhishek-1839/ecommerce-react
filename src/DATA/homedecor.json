@@ -1,0 +1,395 @@
+[
+    {
+        "homedecor_id": 1,
+        "homedecor_name": "MDF Wall Hanging In Multicolour By Sehaz Artworks",
+        "category": "Wall decor",
+        "price": 299,
+        "rating": 4.8,
+        "rating_text": "Excellent",
+        "color": "Multicolour",
+        "thumbnail_url": "https://ii1.pepperfry.com/media/catalog/product/m/d/764x840/mdf-wall-hanging-in-multicolour-by-sehaz-artworks-mdf-wall-hanging-in-multicolour-by-sehaz-artworks-4xwoqq.jpg",
+        "image_gallery": [
+            "https://example.com/images/nike_air_max_black_1.jpg",
+            "https://example.com/images/nike_air_max_black_2.jpg",
+            "https://example.com/images/nike_air_max_black_3.jpg"
+        ],
+        "description": "Self Assemble, Multicolour, Dimensions (In Centimeters) 4.06 X 9.40 X 28.96 in cm, Dimensions (in Inches) Length: 11.4, Width: 3.7, Height: 1.6"
+    },
+    {
+        "homedecor_id":2,
+        "homedecor_name":"Modern Colorlines Canvas Teakwood And Floral Art Print",
+        "category": "Wall decor",
+        "price":2000,
+        "rating": 5.0,
+        "color":"Multicolour",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/m/o/764x840/modern-colorlines-leaf-flying-bird-marble-shades-art-12-x24--stretched-and-framed-in-teakwood-art-pr-zpx2w2.jpg",
+        "description":"No Assembly Required, Multicolour, Dimensions: Length: 12, Width: 24, Height: 1 ( In Inches),Dimensions (In Centimeters) 2.54 X 60.96 X 30.48 in cm, Framed, anvas Material"
+
+    },
+     {
+        "homedecor_id":3,
+        "homedecor_name":"Metal  Hand Painted Elephant Frame Wall Art",
+        "category": "Wall decor",
+        "price":2900,
+        "rating": 4.8,
+        "color":"Black",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/m/e/764x840/metal-multicolour-hand-painted-elephant-frame-wall--art-by-padmavati-art-creations-metal-multicolour-mmmdc1.jpg",
+        "description":"No Assembly Required, Dimensions (In Centimeters) Length: 60.96, Width: 2.54, Height: 40.64, Without LED"
+
+    },
+     {
+        "homedecor_id":4,
+        "homedecor_name":"Wrought Iron Leaf Wall Art In Gold",
+        "category": "Wall decor",
+        "price":4539,
+        "rating": 4.9,
+        "color":"golden",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/g/o/764x840/gold-flower-wall-hanging-by-malik-design-gold-flower-wall-hanging-by-malik-design-vhpppd.jpg",
+        "description":"Self Assembly, Dimensions (In Centimeters) 142.24 X 8.89 X 58.42 In cm, Dimensions (in Inches) Length: 56, Width: 3.5, Height: 23 Inches, Without LED, Material:Wrought Iron"
+
+    },
+      {
+        "homedecor_id":5,
+        "homedecor_name":"Isma 3 Tier Engineered Wood Desk Organizer",
+        "category": "Table-decor and Gardening",
+        "price":1879,
+        "rating": 4.8,
+        "color":"Multicolour",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/i/s/764x840/isma-3-tier-mdf-desk-organizer-by-nandani-wood-isma-3-tier-mdf-desk-organizer-by-nandani-wood-g5fw3q.jpg",
+        "description":"Dimensions (In Centimeters) L 17.8 x B 10.2 x H 30.5, Dimensions (In Inches) H 12 x W 7 x D 4, Material MDF"
+
+    },
+      {
+        "homedecor_id":6,
+        "homedecor_name":"Floating Provincial Teak Sheesham Wood Magazine Rack",
+        "category": "Table-decor and Gardening",
+        "price":2879,
+        "rating": 4.8,
+        "color":"Provincial Teak",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/p/r/494x544/provincial-teak-sheesham-wood-wall-shelve-by-salawas-art---craft-provincial-teak-sheesham-wood-wall--emdms4.jpg",
+        "description":"Self Assembly, Material Sheesham Wood, Number of Shelves 4"
+
+    }
+    ,
+      {
+        "homedecor_id":7,
+        "homedecor_name":"Girl Black Metal Mobile holder",
+        "category": "Table-decor and Gardening",
+        "price":179,
+        "rating": 4.8,
+        "color":"Black",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/g/i/764x840/girl-figure-black-metal-mobile-holder-girl-figure-black-metal-mobile-holder-trybkl.jpg",
+        "description":"Dimensions (In Centimeters) Length :10 , Width : 10 , Height : 7, Material: Iron, Pack Content:1 Mobile Holder"
+
+    }
+    ,
+      {
+        "homedecor_id":8,
+        "homedecor_name":"Black Aluminium Juliette The Black Apple Decorative",
+        "category": "Table-decor and Gardening",
+        "price":1879,
+        "rating": 4.8,
+        "color":"Multicolour",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/a/l/764x840/aluminium-the-black-apple-decorative-box-by-decor-de-maison-aluminium-the-black-apple-decorative-box-4j90te.jpg",
+        "description":"No Assembly Required, Dimensions (In Centimeters) 5.8 X 5.8 X 7.6 In Cm, Material Aluminium"
+
+    }
+     ,
+      {
+        "homedecor_id":9,
+        "homedecor_name":"Lucky Bamboo 3 Layer Natural Plant In Green Self Watering Plastic Pot",
+        "category": "Table-decor and Gardening",
+        "price":379,
+        "rating": 4.8,
+        "color":"Transparent",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/l/u/764x840/lucky-bamboo-3-layer-natural-plant-in-green-self-watering-plastic-pot-lucky-bamboo-3-layer-natural-p-cu2nri.jpg",
+        "description":"No Assembly Required, Dimensions:Length:3.9; Height:9.8 Inches, Dimensions (In Centimeters) Width:9.9; Height:24.9, Pack Content Natural Live Plant, Pot Included:Yes"
+
+    }
+     ,
+      {
+        "homedecor_id":10,
+        "homedecor_name":"Grey & Orange Carbon Steel Multipurpose Household and Garden Scissors",
+        "category": "Table-decor and Gardening",
+        "price":99,
+        "rating": 4.8,
+        "color":"Multicolour",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/g/r/764x840/grey---red-carbon-steel-multipurpose-kitchen-household-and-garden-scissor-by-story-home-grey---red-c-ktnnyt.jpg",
+        "description":"Dimensions:L 0.5 x W 3.5 x H 8.5 inches,Dimensions (In Centimeters):L 1.27 x W 8.89 x H 21.59, Material:Carbon Steel, Pack Content1 Scissor"
+
+    }
+     ,
+      {
+        "homedecor_id":11,
+        "homedecor_name":"Metal Yellow 250 ML Watering Can",
+        "category": "Table-decor and Gardening",
+        "price":339,
+        "rating": 4,
+        "color":"Yellow",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/m/e/764x840/metal-yellow-250-ml-watering--can-metal-yellow-250-ml-watering--can-owwffl.jpg",
+        "description":"Dimensions (In Centimeters) Length: 3.6, Width: 3.6, Height: 3, Material :Metal, Pack Content:1 Watering Can 250 ML, Weight: 100 Grams"
+
+    }
+     ,
+      {
+        "homedecor_id":12,
+        "homedecor_name":"White Polymer Fabi Wide Big Planter by Big Planters",
+        "category": "Table-decor and Gardening",
+        "price":4849,
+        "rating": 4.8,
+        "color":"White",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/w/h/764x840/white-polymer-fabi-wide-floor-planter-by-planters-white-polymer-fabi-wide-floor-planter-by-planters-ukmgzg.jpg",
+        "description":"Dimensions: Length:13; Width:35.8; Height:13, Dimensions (In Centimeters) Length:33; Width:91; Height:33, Material: Polymer, Pack Content:1 Planter, Weight:3 Kgs"
+
+    }
+     ,
+      {
+        "homedecor_id":13,
+        "homedecor_name":"Brown Welcome Home Wooden 7 Hooks Key Holder",
+        "category": "Key-Holder",
+        "price":179,
+        "rating": 4,
+        "color":"Brown",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/b/r/764x840/brown-welcome-home-wooden-7-hooks-key-holder-by-sehaz-artworks-brown-welcome-home-wooden-7-hooks-key-1tanxz.jpg",
+        "description":"Dimensions :Length: 11, Width: 5, Height: 2 Inches, Dimensions (In Centimeters):Length: 27.94, Width: 12.70, Height: 5.08, Hooks:7, Material MDF Weight:400 Grams"
+
+    }
+      ,
+      {
+        "homedecor_id":14,
+        "homedecor_name":"Metal Butterfly In Rustic Finish Key Holder",
+        "category": "Key-Holder",
+        "price":399,
+        "rating": 4.2,
+        "color":"Multicolour",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/m/e/764x840/metal-key-holder-by-malik-design-metal-key-holder-by-malik-design-euff0q.jpg",
+        "description":"Dimensions (In Centimeters):Length: 17.78, Width: 3.81, Height: 12.7, Dimensions (In Inches):Length: 7, Width: 2, Height: 5, Material:Iron, Pack Content:1 Key Holder, Weight:380 Grams"
+
+    }
+      ,
+      {
+        "homedecor_id":15,
+        "homedecor_name":"Sheesham Wood Flower Block Key Holder",
+        "category": "Key-Holder",
+        "price":1279,
+        "rating": 4,
+        "color":"Brown",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/s/h/764x840/sheesham-wood-flower-block-key-holder-by-exclusivelane-sheesham-wood-flower-block-key-holder-by-excl-umfzr5.jpg",
+        "description":"Dimensions:Length: 5.9, Width: 1.7, Height: 7.6, Dimensions (In Centimeters):Length: 14.99, Width: 4.32, Height: 19.30, Hooks:1, Material:Sheesham Wood, Pack Content:1 Key Holder, Weight:331 Grams"
+
+    }
+      ,
+      {
+        "homedecor_id":16,
+        "homedecor_name":"Elephant Blue Iron Key Holder",
+        "category": "Key-Holder",
+        "price":949,
+        "rating": 4.2,
+        "color":"Blue",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/e/l/764x840/elephant-blue-iron-key-holder-by-craft-tree-elephant-blue-iron-key-holder-by-craft-tree-vjnwam.jpg",
+        "description":"Dimensions:Length : 13 , Width : 1.5 , Height : 7.5, Dimensions (In Centimeters):Length : 33.02 , Width : 3.81 , Height : 19.05, Hooks:4, Material:Iron, Pack Content:1 Key Holder, Warranty:6 Months' Warranty, Weight:0.6 Kilograms"
+
+    }
+      ,
+      {
+        "homedecor_id":17,
+        "homedecor_name":"Denham 5 Shelf Metal Kitchen Racks Black Colour",
+        "category": "Kitchen Organizers",
+        "price":2090,
+        "rating": 4,
+        "color":"Silver",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/d/e/764x840/denham-5-shelf-metal-kitchen-racks-black-colour-by-tunehome-denham-5-shelf-metal-kitchen-racks-black-9p1cja.jpg",
+        "description":"Self Assembly, Dimensions (In Centimeters):H 160 x W 58 x D 36, Dimensions (in Inches):H 63 x W 23 x D 14, Primary Material:Metal, Weight:4.8 KG"
+
+    }
+      ,
+      {
+        "homedecor_id":18,
+        "homedecor_name":"Brown Sheesham Wood 9 Containers (Each 40ml) Spice Box With Spoon",
+        "category": "Kitchen Organizers",
+        "price":889,
+        "rating": 5,
+        "color":"Brown",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/b/r/764x840/brown-sheesham-wood-7-containers--each-40ml--spice-box-with-spoon-brown-sheesham-wood-7-containers---r9ybek.jpg",
+        "description":"Dimensions (In Inches):8 Inches(L) x 8 Inches (B) x 2 Inches(H), Material:Wood, Pack Content:1 Box With 9 Containers, 1 Spoon"
+
+    }
+
+      ,
+      {
+        "homedecor_id":19,
+        "homedecor_name":"Silver 290ml Glass (Set Of 3) Storage Jar & Continers",
+        "category": "Kitchen Organizers",
+        "price":799,
+        "rating": 4,
+        "color":"Silver",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/c/e/764x840/ceradeco-3-pcs-silver-coloured-glass-canister-ceradeco-3-pcs-silver-coloured-glass-canister-rsacqa.jpg",
+        "description":"Capacity:290 gm, Dimensions (In Centimeters):Height 9.9 CM, Diameter 7 CM Capacity 290 Gms Each, Dimensions (In Inches):Height 9.9 CM, Diameter 7 CM Capacity 290 Gms Each, Dishwasher Safe:Yes, Material:Glass, Pack Content:3 Glass Canister"
+
+    }
+
+      ,
+      {
+        "homedecor_id":17,
+        "homedecor_name":"Stainless Steel 3 Tier Kitchen Trolley",
+        "category": "Kitchen Organizers",
+        "price":1500,
+        "rating": 4.6,
+        "color":"Silver",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/s/t/764x840/stainless-steel-kitchen-rack---12-x--13-inches-by-zecado-stainless-steel-kitchen-rack---12-x--13-inc-2id8ym.jpg",
+        "description":"Self Assembly, Dimensions (in Inches):Length: 12, Width: 13, Height: 26 inches, Material:Stainless Steel, Pack Content:1 Kitchen Rack, Weight:2.71 Kg"
+
+    }
+
+      ,
+      {
+        "homedecor_id":18,
+        "homedecor_name":"Summer Collection Black Iron Round Shape Appetizer Platter",
+        "category": "Serveware",
+        "price":450,
+        "rating": 4.8,
+        "color":"Black",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/s/u/764x840/summer-collection--black-iron-round-shape-appetizer-platter-summer-collection--black-iron-round-shap-z3ze5f.jpg",
+        "description":"Dimensions (In Centimeters):5 cm X 5 cm X 8 cm, Dimensions (In Inches):2 Inches(L) x 2 Inches (B) x 3 Inches(H), Dishwasher Safe:No, Material:Iron, Microwave Safe:No, Oven Safe:No"
+
+    }
+         ,
+      {
+        "homedecor_id":19,
+        "homedecor_name":"Classic- High Rise Brown Glass Cloche with Wooden Base",
+        "category": "Serveware",
+        "price":1395,
+        "rating": 4,
+        "color":"Brown",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/c/l/764x840/classic-glass-cloche-by-ellementry-classic-glass-cloche-by-ellementry-wxsunw.jpg",
+        "description":"Dimensions (In Centimeters):L 15.5 x B 15.5 x H 21, Dimensions (In Inches):L 6.1 x B 6.1 x H 8.3, Material:Glass, Pack Content:1 Cloche, Weight:1 Kg"
+
+    }
+         ,
+      {
+        "homedecor_id":20,
+        "homedecor_name":"Umber Leaf Arjan Brown 10 Inch MDF Appetizer Platter",
+        "category": "Serveware",
+        "price":2205,
+        "rating": 5,
+        "color":"Brown",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/u/m/764x840/umber-leaf-arjan-wood-chip---dip-appetizer-platter-by-ellementry-umber-leaf-arjan-wood-chip---dip-ap-k1curk.jpg",
+        "description":"Dimensions (In Centimeters):L 25.5 x B 12.5 x H 7.25, Dimensions (In Inches):L 10 x B 4.9 x H 2.9, Material:Wood, Oven Safe:Yes, Pack Content:1 Chip-n-dip, Shape:Oval"
+
+    }
+         ,
+      {
+        "homedecor_id":21,
+        "homedecor_name":"Gateau White MDF Cake Stand",
+        "category": "Serveware",
+        "price":2601,
+        "rating": 4.6,
+        "color":"White",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/g/a/764x840/gateau-wood-cake-stand-by-ellementry-gateau-wood-cake-stand-by-ellementry-jnueyv.jpg",
+        "description":"Dimensions (In Centimeters):L 30 x B 30 x H 13, Dimensions (In Inches):L 11.8 x B 11.8 x H 5.1, Material:Wood"
+
+    }
+         ,
+      {
+        "homedecor_id":22,
+        "homedecor_name":"Scotch Brown & Gold Mango Wood Dispenser",
+        "category": "Barware",
+        "price":3799,
+        "rating": 5,
+        "color":"Brown",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/b/r/764x840/brown---gold-mango-wood---metal-scotch-decanter-by-amaya-decors-brown---gold-mango-wood---metal-scot-spxakm.jpg",
+        "description":"Capacity:1.6 Ltrs,Dimensions (In Centimeters):Width:17.8, Depth:30.5, Height:27.9, Dimensions (In Inches):Width:7, Depth:12, Height:11 Inches, Material:Mango Wood & Metal, Pack Content:1 Drink Server with Tap"
+
+    }
+        ,
+      {
+        "homedecor_id":23,
+        "homedecor_name":"Transparent Heavy Glass (Set of 2) Ashtray",
+        "category": "Barware",
+        "price":799,
+        "rating": 5,
+        "color":"Transparent",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/v/o/764x840/voidrop-set-of-2-rectangle---round-heavy-crystal-glass-ashtray-for-indoor--smoking-ashtray-for-home--6zzdb2.jpg",
+        "description":"Dimensions (In Centimeters):9 cm X 9 cm X 6 cm, Dimensions (In Inches):3.5 Inches(L) x 3.5 Inches (B) x 2.5 Inches(H), Material:Glass, Pack Content:Set of 2 Ash Tray"
+
+    }
+     ,
+      {
+        "homedecor_id":24,
+        "homedecor_name":"Stainless Steel 1500 ML Ice Bucket and Tong- Set of 2",
+        "category": "Barware",
+        "price":699,
+        "rating": 5,
+        "color":"Silver",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/d/y/764x840/dynamic-store-stainless-steel-1500-ml-ice-bucket---set-of-2--dynamic-store-stainless-steel-1500-ml-i-3x9wo6.jpg",
+        "description":"Dimensions (In Centimeters):15x16 cm, Dimensions (In Inches):5.9x6.2, Material:Stainless Steel, Pack Content:1 Double wall Ice Bucket, 1 ice tong"
+
+    }
+     ,
+      {
+        "homedecor_id":25,
+        "homedecor_name":"Ribbed Brown & Gold Stainless Steel Bottle Opener",
+        "category": "Barware",
+        "price":499,
+        "rating": 5,
+        "color":"Multicolour",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/g/o/764x840/golden-stainless-steel-bottle-opener-by-nestroots-golden-stainless-steel-bottle-opener-by-nestroots-jbufgq.jpg",
+        "description":"Dimensions (In Centimeters):L 2.8 x B 2.8 x H 16, Dimensions (In Inches):H 6.3 x W 1.1 x D 1.1, Material:Steel, Pack Content:1 Bottle Opener"
+
+    }
+     ,
+      {
+        "homedecor_id":26,
+        "homedecor_name":"Yellow 5 Meter Water Drop LED String Light",
+        "category": "Lamps & Lighting",
+        "price":379,
+        "rating":4.5,
+        "color":"Yellow",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/y/e/764x840/yellow-5-meters-water-drop-mode-led-christmas-string-lights-by-homesake-yellow-5-meters-water-drop-m-jgoon2.jpg",
+        "description":"Dimensions:196 inches (L) x 1.5inches(B) x 1.5inches(H), Dimensions (In Centimeters):L 497.84 x W 3.81 x H 3.81, Dimensions (in Inches):L 196 x W 1.5 x H 1.5, Pack Content:String Light with 20 Water Drop Bulbs and Electric Plug in"
+
+    }
+     ,
+      
+      {
+        "homedecor_id":27,
+        "homedecor_name":"Frosted White and Yellow 3 Meter LED String Light",
+        "category": "Lamps & Lighting",
+        "price":329,
+        "rating": 5,
+        "color":"White and Yellow",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/w/h/764x840/white-and-yellow-3-meter-led-string-light-by-the-purple-tree-white-and-yellow-3-meter-led-string-lig-jc2fze.jpg",
+        "description":"Dimensions:Length - 120 Inches, Dimensions (In Centimeters):Length - 300 Cm, Dimensions (in Inches):Length - 118 Inches, Pack Content:1 String Light With 50 LEDs"
+
+    }
+     ,
+      {
+        "homedecor_id":28,
+        "homedecor_name":"Multicolour 5 Mtrs (50 LED) USB Operated LED String Light",
+        "category": "Lamps & Lighting",
+        "price":339,
+        "rating": 4,
+        "color":"Multicolour",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/m/u/764x840/multicolour-5-mtrs--50-led--usb-operated-led-string-light-multicolour-5-mtrs--50-led--usb-operated-l-kbgukq.jpg",
+        "description":"Dimensions:L 5 x B 0.2 x H 0.5, Dimensions (In Centimeters):L 12.7 x B 0.5 x H 1.3, Dimensions (in Inches):L 5 x B 0.2 x H 0.5, Pack Content:Qty 1 - USB Operated String Ligh"
+
+    }
+     ,
+      {
+        "homedecor_id":29,
+        "homedecor_name":"Neon Pink 5 Mtr (Without Adapter) Strip Light",
+        "category": "Lamps & Lighting",
+        "price":819,
+        "rating": 5,
+        "color":"Yellow",
+        "thumbnail_url":"https://ii1.pepperfry.com/media/catalog/product/n/e/764x840/neon-pink-5-mtr--without-adapter--strip-light-neon-pink-5-mtr--without-adapter--strip-light-mekmu6.jpg",
+        "description":"Dimensions:L5 x B 0.2 x H 0.5, Dimensions (In Centimeters):L 12.7 x B 0.5 x H 1.3, Dimensions (in Inches):L 5 x B 0.2 x H 0.5, Pack Content:Qty 1 - Neon Strip Light"
+
+    }
+    
+
+
+
+    
+]
+

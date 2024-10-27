@@ -1,0 +1,173 @@
+/* Base styles for larger screens */
+.Nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 20px;
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+  position: relative;
+}
+
+.logo-img {
+  z-index: 11;
+  padding: 0;
+  height: 60px; 
+}
+
+.Nav-menu {
+  display: flex;
+  align-items: center;
+}
+
+.Navlink, .Navlink1 {
+  font-size: 20px;
+  margin: 0 15px;
+  position: relative;
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+.Navlink, .Navlink1{
+
+  &:hover {
+   color: rgb(136, 139, 220);
+  }
+
+}
+
+.Navlink1 {
+  color: rgb(248, 112, 8);
+  font-weight: bold;
+}
+
+.icons-part {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.bag {
+  height: 30px;
+  margin-left: 15px;
+}
+
+.cartCount {
+  position: absolute;
+  top: 0px;
+  right: 25px; 
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  padding: 5px 10px;
+  font-size: 12px;
+}
+
+.fa-heart {
+  margin-left: 20px;
+}
+
+.dropdown {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  background-color: white;
+  border: 1px solid #ddd;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  padding: 30px 30px;
+  width: 191px;
+}
+
+.dropdown-link {
+  display: block;
+  padding: 10px 20px;
+  color: #1d62c9;
+  text-decoration: none;
+}
+
+.dropdown-link:hover {
+  background-color: #b0cae4;
+}
+
+@media (max-width: 768px) {
+  .Nav {
+      padding: 0px 15px;
+  }
+
+  .Nav-menu {
+      flex-direction: column;
+      position: absolute;
+      top: 60px;
+      left: 0;
+      width: 100%;
+      background-color: #fff;
+      display: none;
+      z-index: 111;
+  }
+
+  .Nav-menu.show {
+      display: flex;
+  }
+
+  .Navlink, .Navlink1 {
+      margin: 10px 0;
+      text-align: center;
+      font-size: 18px;
+  }
+
+  .icons-part {
+      margin-left: 0;
+      margin-top: 10px;
+  }
+
+  .cartCount {
+      top: -5px;
+      right: -10px;
+      padding: 4px 8px;
+      font-size: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .Nav {
+      padding: 0px 10px;
+  }
+
+  .Nav-menu {
+      top: 50px;
+  }
+
+  .Navlink, .Navlink1 {
+      font-size: 16px;
+  }
+
+  .icons-part {
+      flex-direction: column;
+      align-items: flex-end;
+      margin-top: 5px;
+  }
+
+  .cartCount {
+      margin-top: 100px;
+      right: 0;
+      padding: 3px 6px;
+      font-size: 10px;
+  }
+
+  .fa-heart {
+      margin-left: 10px;
+  }
+}
+
+.hamburger {
+  display: none;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .hamburger {
+      display: block;
+  }
+}

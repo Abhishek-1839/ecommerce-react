@@ -1,0 +1,515 @@
+[
+    {
+        "footwear_id": 1,
+        "footwear_name": "Nike Air Max",
+        "category": "Sneakers",
+        "gender": "Unisex",
+        "price": 150,
+        "rating": 4.8,
+        "rating_text": "Excellent",
+        "brand": "Nike",
+        "sizes_available": [7, 8, 9, 10, 11],
+        "color": "Black",
+        "thumbnail_url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0083d873-114c-4a76-9dd3-82aa3c1b168f/air-max-dn-shoes-FtLNfm.png",
+        "image_gallery": [
+            "https://example.com/images/nike_air_max_black_1.jpg",
+            "https://example.com/images/nike_air_max_black_2.jpg",
+            "https://example.com/images/nike_air_max_black_3.jpg"
+        ],
+        "description": "Comfortable and stylish sneakers perfect for everyday wear."
+    },
+    {
+        "footwear_id": 2,
+        "footwear_name": "Adidas Ultraboost",
+        "category": "Sports",
+        "gender": "Men",
+        "price": 2800,
+        "rating": 4.5,
+        "rating_text": "Very Good",
+        "brand": "Adidas",
+        "sizes_available": [8, 9, 10, 11, 12],
+        "color": "Blue Dawn",
+        "thumbnail_url": "https://assets.adidas.com/images/h_600,f_auto,q_auto,fl_lossy,c_fill,g_auto/80722e0a8897419b90845dd30f9df57a_9366/Ultraboost_1.0_Shoes_Blue_ID9678_01_standard.jpg",
+        "image_gallery": [
+            "https://example.com/images/adidas_ultraboost_white_1.jpg",
+            "https://example.com/images/adidas_ultraboost_white_2.jpg",
+            "https://example.com/images/adidas_ultraboost_white_3.jpg"
+        ],
+        "description": "High-performance running shoes with responsive cushioning."
+    },
+    {
+        "footwear_id": 3,
+        "footwear_name": "Puma Suede Classic",
+        "category": "Sneakers",
+        "gender": "Women",
+        "price": 1700,
+        "rating": 4.2,
+        "rating_text": "Very Good",
+        "brand": "Puma",
+        "sizes_available": [5, 6, 7, 8, 9],
+        "color": "Red",
+        "thumbnail_url": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/374915/97/sv01/fnd/PNA/fmt/png/Suede-Classic-XXI-Sneakers",
+        "image_gallery": [
+            "https://example.com/images/puma_suede_classic_red_1.jpg",
+            "https://example.com/images/puma_suede_classic_red_2.jpg",
+            "https://example.com/images/puma_suede_classic_red_3.jpg"
+        ],
+        "description": "Classic suede shoes that add a pop of color to any outfit."
+    },
+    {
+        "footwear_id": 4,
+        "footwear_name": "Clarks Desert Boot",
+        "category": "Boots",
+        "gender": "Men",
+        "price": 3300,
+        "rating": 4.6,
+        "rating_text": "Excellent",
+        "brand": "Clarks",
+        "sizes_available": [8, 9, 10, 11],
+        "color": "Brown",
+        "thumbnail_url": "https://cdn.media.amplience.net/i/clarks/26155481_GW_1?fmt=auto&img404=imageNotFound&w=1200&qlt=default",
+        "image_gallery": [
+            "https://example.com/images/clarks_desert_boot_brown_1.jpg",
+            "https://example.com/images/clarks_desert_boot_brown_2.jpg",
+            "https://example.com/images/clarks_desert_boot_brown_3.jpg"
+        ],
+        "description": "Stylish and durable boots made from premium leather."
+    },
+    {
+        "footwear_id": 5,
+        "footwear_name": "Paragon PUK7014L Women Sandals",
+        "category": "Sandals",
+        "gender": "Women",
+        "price": 800,
+        "rating": 4.4,
+        "rating_text": "Very Good",
+        "brand": "Paragon",
+        "sizes_available": [4, 5, 6, 7, 8],
+        "color": "Gray",
+        "thumbnail_url": "https://paragonfootwear.com/cdn/shop/products/K7014L_GRY_4.jpg?v=1697016164&width=1920",
+        "image_gallery": [
+            "https://example.com/images/birkenstock_arizona_brown_1.jpg",
+            "https://example.com/images/birkenstock_arizona_brown_2.jpg",
+            "https://example.com/images/birkenstock_arizona_brown_3.jpg"
+        ],
+        "description": "Comfortable sandals with straps and supportive footbed."
+    },  
+    {
+        "footwear_id": 6,
+        "footwear_name": "Paragon RK6027L Women Sandals",
+        "category": "Sandals",
+        "gender": "Women",
+        "price": 1100,
+        "rating": 4.4,
+        "rating_text": "Very Good",
+        "brand": "Paragon",
+        "sizes_available": [4, 5, 6, 7, 8],
+        "color": "Brown",
+        "thumbnail_url": "https://paragonfootwear.com/cdn/shop/files/9_4ae6766b-3dee-462f-8f4e-a228e768f1a3.jpg?v=1706097150&width=1200",
+        "image_gallery": [
+            "https://example.com/images/birkenstock_arizona_brown_1.jpg",
+            "https://example.com/images/birkenstock_arizona_brown_2.jpg",
+            "https://example.com/images/birkenstock_arizona_brown_3.jpg"
+        ],
+        "description": "Chic design, perfect for adding a touch of elegance to any outfit."
+    },
+    {
+        "footwear_id": 7,
+        "footwear_name": "Womens Fashionable Black Color Lace-Ups Boots",
+        "category": "Boots",
+        "gender": "Women",
+        "price": 2200,
+        "rating": 3.7,
+        "rating_text": "Good",
+        "brand": "Elle",
+        "sizes_available": [7, 8, 9, 10, 11, 12],
+        "color": "Black",
+        "thumbnail_url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/2/9278085G-EL-DAZ-Wn-130BLACK_12.jpg?rnd=20200526195200&tr=w-512",
+        "image_gallery": [
+            "https://example.com/images/timberland_premium_boots_wheat_1.jpg",
+            "https://example.com/images/timberland_premium_boots_wheat_2.jpg",
+            "https://example.com/images/timberland_premium_boots_wheat_3.jpg"
+        ],
+        "description": "Iconic waterproof boots designed for durability and comfort."
+    },
+    {
+        "footwear_id": 8,
+        "footwear_name": "Sreeleathers Men Casual Shoe",
+        "category": "Sports",
+        "gender": "Unisex",
+        "price": 999,
+        "rating": 4.3,
+        "rating_text": "Very Good",
+        "brand": "Sreeleathers",
+        "sizes_available": [6, 7, 8, 9, 10, 11, 12],
+        "color": "Blue",
+        "thumbnail_url": "https://sreeleathers.com/cdn/shop/files/206723_999_1_copy_700x.jpg?v=1717835026",
+        "image_gallery": [
+            "https://example.com/images/converse_chuck_taylor_white_1.jpg",
+            "https://example.com/images/converse_chuck_taylor_white_2.jpg",
+            "https://example.com/images/converse_chuck_taylor_white_3.jpg"
+        ],
+        "description": "Mens Casual shoe skin fit nylon padded phylon eva sole "
+    },
+    {
+        "footwear_id": 9,
+        "footwear_name": "Reebok Nano X",
+        "category": "Sports",
+        "gender": "Women",
+        "price": 2300,
+        "rating": 4.5,
+        "rating_text": "Very Good",
+        "brand": "Reebok",
+        "sizes_available": [5, 6, 7, 8, 9, 10],
+        "color": "Blue",
+        "thumbnail_url": "https://imagescdn.reebok.in/img/app/product/9/933255-13377509.jpg?auto=format&w=390",
+        "image_gallery": [
+            "https://example.com/images/reebok_nano_x_blue_1.jpg",
+            "https://example.com/images/reebok_nano_x_blue_2.jpg",
+            "https://example.com/images/reebok_nano_x_blue_3.jpg"
+        ],
+        "description": "Versatile training shoes designed for high-intensity workouts."
+    },
+    {
+        "footwear_id": 10,
+        "footwear_name": "Adidas Old Skool",
+        "category": "Sneakers",
+        "gender": "Unisex",
+        "price": 2000,
+        "rating": 4.4,
+        "rating_text": "Very Good",
+        "brand": "Adidas",
+        "sizes_available": [6, 7, 8, 9, 10, 11],
+        "color": "Green",
+        "thumbnail_url": "https://assets.adidas.com/images/h_600,f_auto,q_auto,fl_lossy,c_fill,g_auto/02dd3b925584404d9da21289d91bea19_9366/Daily_3.0_Shoes_Green_IF7487_01_standard.jpg",
+        "image_gallery": [
+            "https://example.com/images/vans_old_skool_black_1.jpg",
+            "https://example.com/images/vans_old_skool_black_2.jpg",
+            "https://example.com/images/vans_old_skool_black_3.jpg"
+        ],
+        "description": "Classic skate shoes with a durable construction and stylish design."
+    },
+    {
+        "footwear_id": 11,
+        "footwear_name": "Dr. Martens 1460",
+        "category": "Boots",
+        "gender": "Unisex",
+        "price": 3400,
+        "rating": 4.7,
+        "rating_text": "Excellent",
+        "brand": "Dr. Martens",
+        "sizes_available": [6, 7, 8, 9, 10, 11],
+        "color": "Black",
+        "thumbnail_url": "https://cdn.media.amplience.net/i/drmartens/13512006.80?$smart768$&fmt=auto",
+        "image_gallery": [
+            "https://example.com/images/dr_martens_1460_black_1.jpg",
+            "https://example.com/images/dr_martens_1460_black_2.jpg",
+            "https://example.com/images/dr_martens_1460_black_3.jpg"
+        ],
+        "description": "Iconic boots known for their durability and timeless style."
+    },
+    {
+        "footwear_id": 12,
+        "footwear_name": "DailyWear Casual Sliders",
+        "category": "Sliders",
+        "gender": "Unisex",
+        "price": 749,
+        "rating": 4.0,
+        "rating_text": "Good",
+        "brand": "Paragon",
+        "sizes_available": [6, 7, 8, 9, 10, 11],
+        "color": "Black",
+        "thumbnail_url": "https://paragonfootwear.com/cdn/shop/files/EVMK10921G_WHT_4.jpg?v=1716625369&width=768",
+        "image_gallery": [
+            "https://example.com/images/dr_martens_1460_black_1.jpg",
+            "https://example.com/images/dr_martens_1460_black_2.jpg",
+            "https://example.com/images/dr_martens_1460_black_3.jpg"
+        ],
+        "description": "Washable Daily wear comfortable Sliders for everyone"
+    },
+    {
+        "footwear_id": 13,
+        "footwear_name": "Georgette Over the Knee Boot",
+        "category": "Boots",
+        "gender": "Women",
+        "price": 2040,
+        "rating": 4.0,
+        "rating_text": "Good",
+        "brand": "Steve Madden",
+        "sizes_available": [6, 7, 8, 9, 10, 11],
+        "color": "Brown",
+        "thumbnail_url": "https://m.media-amazon.com/images/I/714JYTwQwbL._AC_SR920,736_.jpg",
+        "image_gallery": [
+            "https://example.com/images/dr_martens_1460_black_1.jpg",
+            "https://example.com/images/dr_martens_1460_black_2.jpg",
+            "https://example.com/images/dr_martens_1460_black_3.jpg"
+        ],
+        "description": "Heeled boot features a fabric upper with zipper closure at back and fixed footbed with mini block heel."
+    },
+    {
+        "footwear_id": 14,
+        "footwear_name": "Womens Comfortable Blue Flipflop",
+        "category": "Flipflops",
+        "gender": "Women",
+        "price": 449,
+        "rating": 4.0,
+        "rating_text": "Good",
+        "brand": "Sherriff Shoes",
+        "sizes_available": [4, 5, 6, 7, 8, 9],
+        "color": "Blue",
+        "thumbnail_url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/8/f8232334126-BLUE_2.jpg?rnd=20200526195200&tr=w-512",
+        "image_gallery": [
+            "https://example.com/images/dr_martens_1460_black_1.jpg",
+            "https://example.com/images/dr_martens_1460_black_2.jpg",
+            "https://example.com/images/dr_martens_1460_black_3.jpg"
+        ],
+        "description": "Step out in style with this pair of flip-flops by Sherrif Shoes. Made with high-quality material, these flats are surely a must-have."
+    },
+    {
+        "footwear_id": 15,
+        "footwear_name": "Adidas amplimove Trainer Shoes",
+        "category": "Sports",
+        "gender": "Women",
+        "price": 4449,
+        "rating": 4.0,
+        "rating_text": "Good",
+        "brand": "Adidas",
+        "sizes_available": [6, 7, 8, 9, 10, 11],
+        "color": "White",
+        "thumbnail_url": "https://assets.adidas.com/images/h_640,f_auto,q_auto,fl_lossy,c_fill,g_auto/d728acf96757431b9249c4247a431c22_9366/Amplimove_Trainer_Shoes_White_IF0959_01_standard.jpg",
+        "image_gallery": [
+            "https://example.com/images/dr_martens_1460_black_1.jpg",
+            "https://example.com/images/dr_martens_1460_black_2.jpg",
+            "https://example.com/images/dr_martens_1460_black_3.jpg"
+        ],
+        "description": "Whether you aspire to train like a pro or just elevate your workout, these adidas training shoes help you unlock your athletic potential."
+    },
+    {
+        "footwear_id": 16,
+        "footwear_name": "Adidas Novaflight VolleyBall Shoes",
+        "category": "Sports",
+        "gender": "Men",
+        "price": 5449,
+        "rating": 4.5,
+        "rating_text": "Very Good",
+        "brand": "Adidas",
+        "sizes_available": [6, 7, 8, 9, 10, 11],
+        "color": "White",
+        "thumbnail_url": "https://assets.adidas.com/images/h_640,f_auto,q_auto,fl_lossy,c_fill,g_auto/634176e7f82f410093aa26ebcff061a5_9366/Novaflight_Volleyball_Shoes_White_HP3364_01_standard.jpg",
+        "image_gallery": [
+            "https://example.com/images/dr_martens_1460_black_1.jpg",
+            "https://example.com/images/dr_martens_1460_black_2.jpg",
+            "https://example.com/images/dr_martens_1460_black_3.jpg"
+        ],
+        "description": "Whether you aspire to train like a pro or just elevate your workout, these adidas training shoes help you unlock your athletic potential."
+    },
+    {
+        "footwear_id": 17,
+        "footwear_name": "Kutdana Loafers",
+        "category": "Loafers",
+        "gender": "Women",
+        "price": 3370,
+        "rating": 4.5,
+        "rating_text": "Very Good",
+        "brand": "Sole House",
+        "sizes_available": [4, 5, 6, 7, 8, 9],
+        "color": "Blue",
+        "thumbnail_url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/8/2808-2_6.jpg?rnd=20200526195200&tr=w-512",
+        "image_gallery": [
+            "https://example.com/images/dr_martens_1460_black_1.jpg",
+            "https://example.com/images/dr_martens_1460_black_2.jpg",
+            "https://example.com/images/dr_martens_1460_black_3.jpg"
+        ],
+        "description": "Navy Blue Raw Silk with Dull Gold Kutdana embroidery , Pear shape swaoskvi stones and white hald pearl detailiing with flower motif."
+    },
+    {
+        "footwear_id": 18,
+        "footwear_name": "Men WANOR 2.0 Navy Blue Flipflop",
+        "category": "Flipflops",
+        "gender": "Men",
+        "price": 2399,
+        "rating": 3.8,
+        "rating_text": "Good",
+        "brand": "U.S. POLO ASSN",
+        "sizes_available": [6, 7, 8, 9, 10, 11],
+        "color": "Blue",
+        "thumbnail_url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/3/9301dbd2FD24475N01_1.jpg?rnd=20200526195200&tr=w-512",
+        "image_gallery": [
+            "https://example.com/images/dr_martens_1460_black_1.jpg",
+            "https://example.com/images/dr_martens_1460_black_2.jpg",
+            "https://example.com/images/dr_martens_1460_black_3.jpg"
+        ],
+        "description": "Step out in style with this pair of flip-flops by U.S. POLO ASSN. Made with high-quality material, these flats are surely a must-have."
+    },
+    {
+        "footwear_id": 19,
+        "footwear_name": "Navy Blue Sandals For Men",
+        "category": "Sandals",
+        "gender": "Men",
+        "price": 749,
+        "rating": 4.5,
+        "rating_text": "Very Good",
+        "brand": "Campus",
+        "sizes_available": [6, 7, 8, 9, 10, 11],
+        "color": "Blue",
+        "thumbnail_url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/f/2f183c8NF_CAMP0819_1.jpg?rnd=20200526195200&tr=w-512",
+        "image_gallery": [
+            "https://example.com/images/dr_martens_1460_black_1.jpg",
+            "https://example.com/images/dr_martens_1460_black_2.jpg",
+            "https://example.com/images/dr_martens_1460_black_3.jpg"
+        ],
+        "description": "Step out in style with this pair of flip-flops by U.S. POLO ASSN. Made with high-quality material, these flats are surely a must-have."
+    },
+    {
+        "footwear_id": 20,
+        "footwear_name": "Navy Blue Sandals For Men",
+        "category": "Sandals",
+        "gender": "Men",
+        "price": 2695,
+        "rating": 4.5,
+        "rating_text": "Very Good",
+        "brand": "Nykaa Fashion",
+        "sizes_available": [4, 5, 6, 7, 8],
+        "color": "Blue",
+        "thumbnail_url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/7/57d6c9bFL050644_3.jpg?rnd=20200526195200&tr=w-512",
+        "image_gallery": [
+            "https://example.com/images/dr_martens_1460_black_1.jpg",
+            "https://example.com/images/dr_martens_1460_black_2.jpg",
+            "https://example.com/images/dr_martens_1460_black_3.jpg"
+        ],
+        "description": "This pair of solid flats feature a round-toe shape and a color block cross strap detail."
+    },
+    {
+        "footwear_id": 21,
+        "footwear_name": "Mirano 3.0 Solid Loafers For Men",
+        "category": "Loafers",
+        "gender": "Men",
+        "price": 2695,
+        "rating": 4.5,
+        "rating_text": "Very Good",
+        "brand": "U.S. POLO ASSN",
+        "sizes_available": [6, 7, 8, 9, 10],
+        "color": "Grey",
+        "thumbnail_url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/0/a0c5e922FD22391G07_1.jpg?rnd=20200526195200&tr=w-512",
+        "image_gallery": [
+            "https://example.com/images/dr_martens_1460_black_1.jpg",
+            "https://example.com/images/dr_martens_1460_black_2.jpg",
+            "https://example.com/images/dr_martens_1460_black_3.jpg"
+        ],
+        "description": "Made from a sturdy material, they are perfect for casual occasions. Team with a crisp shirt and a pair of chinos for a sleek look."
+    },
+    {
+        "footwear_id": 22,
+        "footwear_name": "Women Beige Formal Shoes",
+        "category": "Formal",
+        "gender": "Women",
+        "price": 2990,
+        "rating": 4.5,
+        "rating_text": "Very Good",
+        "brand": "Inc.5",
+        "sizes_available": [4, 5, 6, 7, 8],
+        "color": "Beige",
+        "thumbnail_url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/2/b207443800394Beige_1.jpg?rnd=20200526195200&tr=w-512",
+        "image_gallery": [
+            "https://example.com/images/dr_martens_1460_black_1.jpg",
+            "https://example.com/images/dr_martens_1460_black_2.jpg",
+            "https://example.com/images/dr_martens_1460_black_3.jpg"
+        ],
+        "description": "The brands vision is to satisfy the most discerning and demanding client, seeking top quality Sandal, which offer a distinctive interpretation of each seasons trends."
+    },
+    {
+        "footwear_id": 23,
+        "footwear_name": "Men Black Leather Lace Up Derbies",
+        "category": "Formal",
+        "gender": "Men",
+        "price": 3245,
+        "rating": 4.5,
+        "rating_text": "Very Good",
+        "brand": "Louis Philippe",
+        "sizes_available": [6, 7, 8, 9, 10, 11],
+        "color": "Black",
+        "thumbnail_url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/b/5b1253eLPSMURGFL00106_2.jpg?rnd=20200526195200&tr=w-512",
+        "image_gallery": [
+            "https://example.com/images/dr_martens_1460_black_1.jpg",
+            "https://example.com/images/dr_martens_1460_black_2.jpg",
+            "https://example.com/images/dr_martens_1460_black_3.jpg"
+        ],
+        "description": "Lend finesse to your ensemble in these Black lace-up shoes by Louis Philippe from the House of Louis Philippe."
+    },
+    {
+        "footwear_id": 24,
+        "footwear_name": "Colville Blue Mens Casual Espadrilles",
+        "category": "Espadrilles",
+        "gender": "Men",
+        "price": 8490,
+        "rating": 4.5,
+        "rating_text": "Very Good",
+        "brand": "Bugatti",
+        "sizes_available": [6, 7, 8, 9, 10, 11],
+        "color": "Blue",
+        "thumbnail_url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/1/d14b454328AEU6069144040_1.jpg?rnd=20200526195200&tr=w-512",
+        "image_gallery": [
+            "https://example.com/images/dr_martens_1460_black_1.jpg",
+            "https://example.com/images/dr_martens_1460_black_2.jpg",
+            "https://example.com/images/dr_martens_1460_black_3.jpg"
+        ],
+        "description": "Charming street style gets a fashionable makeover in these bugatti Colville blue Espadrilles. The textile uppers inspired by the bugatti icon lend these casual shoes an ultra-chic flair."
+    },
+    {
+        "footwear_id": 25,
+        "footwear_name": "Bali Women Espadrilles",
+        "category": "Espadrilles",
+        "gender": "Women",
+        "price": 3200,
+        "rating": 4.5,
+        "rating_text": "Very Good",
+        "brand": "Bagatt",
+        "sizes_available": [6, 7, 8, 9, 10, 11],
+        "color": "Light Green",
+        "thumbnail_url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/9/b97817aD18-A3U60-4900-7200_1.jpg?rnd=20200526195200&tr=w-512",
+        "image_gallery": [
+            "https://example.com/images/dr_martens_1460_black_1.jpg",
+            "https://example.com/images/dr_martens_1460_black_2.jpg",
+            "https://example.com/images/dr_martens_1460_black_3.jpg"
+        ],
+        "description": "These BAGATT light green sneakers are a trendy re-interpretation of the classic sneaker. Leather uppers with hand-stitched finish make the pairs an all-time favourite."
+    },
+    {
+        "footwear_id": 26,
+        "footwear_name": "Wasan Beige Colour Moccasin Shoe for Men",
+        "category": "Moccasins",
+        "gender": "Men",
+        "price": 1880,
+        "rating": 4.5,
+        "rating_text": "Very Good",
+        "brand": "Carlo Romano",
+        "sizes_available": [6, 7, 8, 9, 10, 11],
+        "color": "Brown",
+        "thumbnail_url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/1/c1732fbTIGER-61_BEIGE_1.jpg?rnd=20200526195200&tr=w-512",
+        "image_gallery": [
+            "https://example.com/images/dr_martens_1460_black_1.jpg",
+            "https://example.com/images/dr_martens_1460_black_2.jpg",
+            "https://example.com/images/dr_martens_1460_black_3.jpg"
+        ],
+        "description": "Men's Suede Leather Moccassin Shoe"
+    },
+    {
+        "footwear_id": 27,
+        "footwear_name": "Women Slip-On Moccasins Pink",
+        "category": "Moccasins",
+        "gender": "Women",
+        "price": 1499,
+        "rating": 4.5,
+        "rating_text": "Very Good",
+        "brand": "Bata",
+        "sizes_available": [6, 7, 8, 9, 10, 11],
+        "color": "Pink",
+        "thumbnail_url": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/d/dd35ceaFW-5515357_1.jpg?rnd=20200526195200&tr=w-512",
+        "image_gallery": [
+            "https://example.com/images/dr_martens_1460_black_1.jpg",
+            "https://example.com/images/dr_martens_1460_black_2.jpg",
+            "https://example.com/images/dr_martens_1460_black_3.jpg"
+        ],
+        "description": "Look effortlessly stylish by wearing this pair of Mocassins featuring an eye-catching design and a refined appeal. A perfect choice to flaunt a classy style wherever you go."
+    }
+]

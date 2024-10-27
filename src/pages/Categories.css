@@ -1,0 +1,26 @@
+/* .filtercat{
+    display: flex;
+    flex-direction: column;
+} */
+.butn {
+    width:120px;
+    border-radius: 12px; 
+    padding: 10px 10px; /* Padding for size */
+    background-color: #020910; /* Initial background color */
+    color: white; /* Text color */
+    border: none; /* No border */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.butn:hover {
+    background-color: #86b300; /* Color on hover */
+}
+
+.butn:active,
+.butn:focus {
+    background-color: #003f7f; /* Color on click */
+    outline: none;
+}

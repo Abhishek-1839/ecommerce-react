@@ -1,0 +1,124 @@
+.offer-cards {
+  position: relative;
+  width: 100%;
+
+  background-color: white;
+  vertical-align: bottom;
+  cursor: default;
+}
+
+#shop-Offers h1 {
+  font-size: 55px;
+  font-weight: 300;
+}
+#shop-Offers .head span {
+  font-size: 55px;
+  font-weight: 700;
+}
+#shop-Offers .head2 span {
+  font-size: 55px;
+  font-weight: 700;
+}
+#shop-offer .head2 h1 {
+  font-size: 45px;
+}
+
+.top-banner {
+  width: 98%;
+  margin: 0 auto;
+
+  transition: transform 0.6s ease-in;
+  will-change: transform;
+}
+.top-banner:hover {
+  transform: scale(1.02);
+}
+
+.top-banner a {
+  height: 250px;
+  cursor: auto;
+  /* width: 300px; */
+}
+.top-banner a img {
+  vertical-align: top;
+  width: 100%;
+}
+
+.banner-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px; /* Adjust gap between grid items as needed */
+  width: 100%; /* Ensure grid takes full width of its container */
+  margin: 0 auto;
+}
+
+.grid-img,
+.card-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transition: transform 0.6s ease-in;
+  will-change: transform;
+}
+.grid-img:hover {
+  transform: scale(1.02);
+}
+
+.grid-img img,
+.card-img img {
+  width: 100%; /* Ensure images take full width of their containers */
+  height: 100%;
+  object-fit: contain; /* Ensure images cover the entire container */
+}
+
+.discounted-cards {
+  width: 100%;
+}
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  height: 100%;
+}
+
+.card-img:hover {
+  transform: scale(1.02);
+}
+
+.free-delivery-banner {
+  width: 100%;
+}
+.delivery-banner {
+  width: 90%;
+  margin: 0 auto;
+}
+.delivery-banner img {
+  width: 100%;
+}
+
+.upcoming-deals {
+  width: 100%;
+}
+
+.deal-banner {
+  width: 98%;
+  margin: 0 auto;
+}
+.deal-banner img {
+  height: 100%;
+  width: 100%;
+}
+
+@media screen and (max-width: 1000px) {
+  .cards-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media screen and (max-width: 768px) {
+  .cards-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .banner-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
